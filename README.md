@@ -5,3 +5,4 @@ Jawaban Test Technical Online Bootcamp Batch 18 Kloter 4 DumbWays.id
 2.js - Username and Password Validation Function
 3.cpp - Print Pattern Function
 ```
+![RMP](https://github.com/nuraskiah/image/blob/master/img.png)
